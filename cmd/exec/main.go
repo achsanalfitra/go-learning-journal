@@ -9,6 +9,6 @@ import (
 func main() {
 	i := []int{2, 1, 3, 4, 6, 5, 7}
 
-	controls.BubbleSort(&i)
+	controls.BubbleSortSolution(&i)
 	fmt.Println(i)
 }

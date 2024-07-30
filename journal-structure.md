@@ -15,3 +15,6 @@ Here is the list of materials:
 * Data Structures
 * Algorithms
 * Advanced Go (coming soon)
+
+## Basic go syntax
+
